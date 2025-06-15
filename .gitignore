@@ -10,7 +10,7 @@ web-build/
 expo-env.d.ts
 app.config.js
 src/app/api/openai.js
-
+lib/api/openai.js
 
 # Native
 *.orig.*

@@ -4,7 +4,7 @@ import { View, TextInput, TouchableOpacity, FlatList, KeyboardAvoidingView, Plat
 import { SafeAreaView } from "react-native-safe-area-context";
 import { Ionicons } from "@expo/vector-icons";
 import CustomHeader from "../../components/CustomHeader";
-import { fetchChatReply } from "../../api/openai";
+import { fetchChatReply } from "../../../../lib/api/openai";
 
 const MAX_WORDS = 40; // Max words per user message
 const MAX_LENGTH = 200; // Max characters per message

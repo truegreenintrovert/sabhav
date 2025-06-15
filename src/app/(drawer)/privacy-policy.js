@@ -7,7 +7,7 @@ export default function PrivacyPolicy() {
       <ScrollView contentContainerStyle={styles.content}>
         <Text style={styles.title}>Privacy & Policy</Text>
         <Text style={styles.bodyText}>
-          Effective Date: [Insert Date]
+          Effective Date: 16-06-2025
         </Text>
         <Text style={styles.bodyText}>
           At Sabhav, your emotional well-being and privacy are our top priorities. 
@@ -54,7 +54,7 @@ export default function PrivacyPolicy() {
           You may:
           {"\n"}- Request access, correction, or deletion of your data
           {"\n"}- Withdraw consent at any time
-          {"\n"}- Contact us at [your support email] for privacy-related concerns
+          {"\n"}- Contact us at support@sabhav.in for privacy-related concerns
         </Text>
 
         <Text style={styles.sectionTitle}>6. Jurisdiction</Text>

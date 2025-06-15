@@ -8,7 +8,7 @@ export default function TermsAndConditions() {
         <Text style={styles.title}>Terms & Conditions</Text>
 
         <Text style={styles.bodyText}>
-          Effective Date: [Insert Date]
+          Effective Date: 16-06-2025
         </Text>
 
         <Text style={styles.bodyText}>
@@ -53,7 +53,7 @@ export default function TermsAndConditions() {
 
         <Text style={styles.sectionTitle}>7. Contact</Text>
         <Text style={styles.bodyText}>
-          If you have questions, contact us at [your support email].
+          If you have questions, contact us at support@sabhav.in
         </Text>
 
         <Text style={styles.bodyText}>

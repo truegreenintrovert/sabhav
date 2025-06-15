@@ -13,11 +13,11 @@ const HEADER_BG = "#970dbd";
 
 const DRAWER_ITEMS = [
   { name: "profile", label: "Profile", icon: "person-outline" },
-  { name: "help", label: "Help", icon: "help-circle-outline" },
   { name: "settings", label: "Settings", icon: "settings-outline" },
-  { name: "logout", label: "Logout", icon: "exit-outline" },
   { name: "terms-and-conditions", label: "Terms & Conditions", icon: "document-text-outline" },
   { name: "privacy-policy", label: "Privacy & Policy", icon: "shield-checkmark-outline" },
+  { name: "help", label: "Help", icon: "help-circle-outline" },
+  { name: "logout", label: "Logout", icon: "exit-outline" },
 ];
 
 export default function CustomDrawer() {
