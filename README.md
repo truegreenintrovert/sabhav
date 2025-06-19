@@ -94,19 +94,26 @@ For full history clean (use git filter-repo or BFG Repo Cleaner — ask the team
 
 📁 Project Structure
 
+
+
 /sabhav
  ├── src/
- │    ├── app/            # Screens & routes (Expo Router)
- │    ├── components/     # UI components
- │    ├── assets/         # Icons, splash, images
- │    ├── api/            # API handlers
- │    ├── hooks/          # Custom hooks (optional)
- │    ├── utils/          # Helpers (optional)
- │    └── app.config.js   # Expo app configuration
- ├── .env.example
+ │    ├── app/       
+ │    ├── components/ 
+ │    ├── assets/
+ │    ├── api/   
+ │    ├── hooks/
+ │    ├── utils/
+ │    └── app.config.js
+ ├── .env
  ├── .gitignore
  ├── package.json
  └── README.md
+
+
+
+
+
 📌 Notes
 ✅ .env is ignored (never commit your real keys)
 ✅ Use EAS Build secrets for production keys
